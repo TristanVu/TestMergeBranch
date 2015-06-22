@@ -5,7 +5,7 @@
  * shall not disclose or reproduce such Confidential Information and shall use it only in accordance with the terms of
  * the license agreement you entered into with Clare Controls.
  */
-package com.clarecontrols.equator.solstice.api.beta;
+package com.clarecontrols.equator.solstice.api.beta1;
 
 import java.util.ArrayList;
 import java.util.Collections;
