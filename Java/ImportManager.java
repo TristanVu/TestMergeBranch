@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2012 Clare Controls. All rights reserved.
+ * Copyright (c) 2012 Enclave. All rights reserved.
  *
  * This software is the confidential and proprietary information of Clare Controls ("Confidential Information"). You
  * shall not disclose or reproduce such Confidential Information and shall use it only in accordance with the terms of
